@@ -1,4 +1,4 @@
-##Chocolate Chip Cookies
+## Chocolate Chip Cookies
 **Prep Time:** 20 minutes
-**Bake time:** 12 minutes
+**Bake Time:** 12 minutes
 **Ingredients:** flour, sugar, butter, chocolate chips, eggs
